@@ -1,0 +1,58 @@
+/* Selectores básicos aplicados según la consigna */
+
+body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    
+}
+
+h1 {
+    color: cyan;
+    font-size: 40px;
+}
+
+h2 {
+    color: deepskyblue;
+    font-size: 30px;
+}
+
+h3 {
+    color: lightgrey;
+    font-size: 22px;
+}
+
+/* Estilos para los enlaces de navegación */
+a {
+    color: yellow;
+    font-size: 18px;
+}
+
+/* Estilos para la tabla de horarios */
+table {
+    background-color: darkslategrey;
+    color: white;
+    border-color: cyan;
+}
+
+th {
+    background-color: cyan;
+    color: black;
+    font-size: 18px;
+}
+
+td {
+    font-size: 16px;
+    color: white;
+}
+
+/* Estilos para las listas de la receta */
+ul, ol {
+    color: silver;
+    font-size: 18px;
+}
+
+footer {
+    color: grey;
+    font-size: 12px;
+}
