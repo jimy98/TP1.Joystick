@@ -1,4 +1,4 @@
-/* Selectores básicos aplicados según la consigna */
+
 
 body {
     background-color: black;
@@ -22,13 +22,11 @@ h3 {
     font-size: 22px;
 }
 
-/* Estilos para los enlaces de navegación */
 a {
     color: yellow;
     font-size: 18px;
 }
 
-/* Estilos para la tabla de horarios */
 table {
     background-color: darkslategrey;
     color: white;
@@ -46,7 +44,6 @@ td {
     color: white;
 }
 
-/* Estilos para las listas de la receta */
 ul, ol {
     color: silver;
     font-size: 18px;
